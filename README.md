@@ -3,3 +3,5 @@ Analysis of tweets and their sentiment over a given time period, with the help o
 We looked at multiple notebooks in an attempt to understand the nuances behind the terminal, VS Code, python programs, while using different models and tools such as snscrape, Vader, and also learnt how to use Twitter API tools.
 We put the tools we had learnt to use by attempting to analyse data in a cultural context by constructing sentiment arcs and also trying to find semblance in data.
 We worked on mapping projects, scraping the web, analysing social networks, NLP, Twitter and sentiment projects, political data analysis to name a few.
+
+Here is Professor Chuns github for refrence for where a lot of our data was pulled. He is a great resource in understanding the inner workings data and code: https://github.com/jon-chun
